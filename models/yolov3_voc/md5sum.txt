@@ -1,0 +1,2 @@
+1c546cd24bb34acdd2988adc6ab1dc87  yolov3_voc.prototxt
+ae69a287cf3a0789694d5a8696f88d20  yolov3_voc.xmodel
