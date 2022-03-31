@@ -1,5 +1,6 @@
 # YoloV3-SORT-VCK5000-Acceleration
 
+This a project for Xilinx Global Adaptive Computing Challenge.
 This Project aims to add Simple Online and Realtime Tracking to Yolo `Object Detection` Algorithms Series. As previously I have implemented the same software on CPU+GPU(RTX 2080ti) hardware and found `“low GPU occupancy”` on such platform. I want to utilize the power of optimized DPU on FPGA to fully accelerate the system.
 
 ## Note
