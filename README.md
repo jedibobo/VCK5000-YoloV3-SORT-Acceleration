@@ -18,6 +18,14 @@ to get all executables. And they are: `video_test`,`yolov3-demo`,`yolov3-video`,
 
 `yolov3-sort`is the executable that has full functions including video, detection, tracking
 
+run:
+
+```shell
+./yolov3-sort path-to-xmodel
+```
+
+
+
 ## Hardware&Software Setup
 
 refer to [docs/setting-up-vck5000&vitis-ai.md](docs/setting-up-vck5000&vitis-ai.md)
